@@ -4,7 +4,7 @@ Carrito de Comprar realizado con Php - Framework Codenaigter - MySql - Html - Cs
 
 
 
-![alt](assets/carrito_1.JPG)
+![alt](assets/img/carrito_1.JPG)
 
 
 
