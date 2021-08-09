@@ -1,0 +1,36 @@
+/*.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}*/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.centrado {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.imagen-ver img {
+    max-width: 100%;
+}
+
+.carrito-tabla {
+    max-width: 100%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
